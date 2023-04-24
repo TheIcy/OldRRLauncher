@@ -2,7 +2,7 @@
    {
       "ServerName":"October 18, 2016 (Default Server)",
       "GameVersion":"October 18, 2016",
-      "PhotonSettings":{
+      "PhotonServerSettings":{
          "PunAppIdOffset":0,
          "VoiceAppIdOffset":0,
          "PunAppId":"fb2d57a6-72a5-4c57-9cad-494e2b500283",
