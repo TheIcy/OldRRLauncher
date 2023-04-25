@@ -2,6 +2,8 @@
    {
       "ServerName":"October 18, 2016 (Default Server)",
       "GameVersion":"October 18, 2016",
+      "RequiresRecNet":true,
+      "RecNetVersion":"Oct182016",
       "PhotonServerSettings":{
          "PunAppIdOffset":0,
          "VoiceAppIdOffset":0,
