@@ -2,6 +2,7 @@
    {
       "ServerName":"October 18, 2016 (Default Server)",
       "GameVersion":"October 18, 2016",
+      "GameManifest":5317305413924462757,
       "SupportsScreen":false,
       "RequiresRecNet":true,
       "RecNetVersion":"Oct182016",
@@ -16,6 +17,7 @@
    {
       "ServerName":"September 27, 2018 (Default Server)",
       "GameVersion":"September 27, 2018",
+      "GameManifest":5112800850661766506,
       "SupportsScreen":true,
       "RequiresRecNet":true,
       "RecNetVersion":"Sept272018",
