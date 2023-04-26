@@ -2,6 +2,7 @@
    {
       "Name":"October 18, 2016",
       "GameManifest":5317305413924462757,
+      "SupportsScreen":false,
       "PhotonPunOffset":0,
       "PhotonVoiceOffset":0,
       "RequiresRecNet":true,
@@ -11,6 +12,7 @@
    {
       "Name":"Debug",
       "GameManifest":0,
+      "SupportsScreen":false,
       "PhotonPunOffset":0,
       "PhotonVoiceOffset":0,
       "RequiresRecNet":false,
