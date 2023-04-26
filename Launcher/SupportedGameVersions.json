@@ -1,10 +1,14 @@
 [
    {
       "Name":"October 18, 2016",
+      "PhotonPunOffset":0,
+      "PhotonVoiceOffset":0,
       "DownloadLink":"https://google.com"
    },
    {
       "Name":"Debug",
+      "PhotonPunOffset":0,
+      "PhotonVoiceOffset":0,
       "DownloadLink":"https://google.com"
    }
 ]
