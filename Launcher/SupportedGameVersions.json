@@ -3,12 +3,16 @@
       "Name":"October 18, 2016",
       "PhotonPunOffset":0,
       "PhotonVoiceOffset":0,
+      "RequiresRecNet":true,
+      "RecNetVersion":"Oct182016",
       "DownloadLink":"https://google.com"
    },
    {
       "Name":"Debug",
       "PhotonPunOffset":0,
       "PhotonVoiceOffset":0,
+      "RequiresRecNet":false,
+      "RecNetVersion":null,
       "DownloadLink":"https://google.com"
    }
 ]
