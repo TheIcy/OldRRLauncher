@@ -1,17 +1,7 @@
 [
    {
-      "Name":"October 18, 2016",
-      "GameManifest":5317305413924462757,
-      "SupportsScreen":false,
-      "PhotonPunOffset":0,
-      "PhotonVoiceOffset":0,
-      "RequiresRecNet":true,
-      "RecNetVersion":"Oct182016",
-      "DownloadLink":"https://google.com"
-   },
-   {
-      "Name":"Debug",
-      "GameManifest":0,
+      "Name":"August 2, 2016",
+      "GameManifest":356844315186453937,
       "SupportsScreen":false,
       "PhotonPunOffset":0,
       "PhotonVoiceOffset":0,
