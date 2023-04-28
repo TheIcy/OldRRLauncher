@@ -1,26 +1,11 @@
 [
    {
-      "ServerName":"October 18, 2016 (Default Server)",
-      "GameVersion":"October 18, 2016",
-      "GameManifest":5317305413924462757,
+      "ServerName":"August 2, 2016 (Default Server)",
+      "GameVersion":"August 2, 2016",
+      "GameManifest":356844315186453937,
       "SupportsScreen":false,
-      "RequiresRecNet":true,
-      "RecNetVersion":"Oct182016",
-      "PhotonServerSettings":{
-         "PunAppIdOffset":0,
-         "VoiceAppIdOffset":0,
-         "PunAppId":"fb2d57a6-72a5-4c57-9cad-494e2b500283",
-         "VoiceAppId":"54fb948e-4c2e-47d4-b9d6-335e6b13c9d0"
-      },
-      "CreatedBy":"Icy"
-   },
-   {
-      "ServerName":"September 27, 2018 (Default Server)",
-      "GameVersion":"September 27, 2018",
-      "GameManifest":5112800850661766506,
-      "SupportsScreen":true,
-      "RequiresRecNet":true,
-      "RecNetVersion":"Sept272018",
+      "RequiresRecNet":false,
+      "RecNetVersion":null,
       "PhotonServerSettings":{
          "PunAppIdOffset":0,
          "VoiceAppIdOffset":0,
